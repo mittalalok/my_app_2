@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="support_group" label="Support group" language="en" table="sn_my_app_2_tb1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <help/>
+            <hint/>
+            <label>Support group</label>
+            <language>en</language>
+            <name>sn_my_app_2_tb1</name>
+            <plural>Support groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-06 12:58:44</sys_created_on>
+            <sys_id>edcf39f2737133001c233096fbf6a74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Support group</sys_name>
+            <sys_package display_value="my_app_2" source="sn_my_app_2">35debdb2737133001c233096fbf6a7bb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="my_app_2">35debdb2737133001c233096fbf6a7bb</sys_scope>
+            <sys_update_name>sys_documentation_sn_my_app_2_tb1_support_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-06 12:58:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
